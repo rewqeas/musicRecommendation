@@ -1,0 +1,30 @@
+2025-07-18 08:56:45,165 - INFO - Logging is set up for preprocessing.
+2025-07-18 08:56:50,317 - INFO - Dataset loaded successfully.
+2025-07-18 08:56:50,320 - INFO - Starting text cleaning.
+2025-07-18 08:56:50,339 - INFO - Starting text preprocessing.
+2025-07-18 08:56:57,194 - INFO - Text cleaning completed.
+2025-07-18 08:56:57,195 - INFO - Starting TF-IDF vectorization.
+2025-07-18 08:56:58,141 - INFO - TF-IDF vectorization completed.
+2025-07-18 08:56:58,142 - INFO - Calculating cosine similarity.
+2025-07-18 08:57:05,104 - INFO - Data and cosine similarity matrix saved successfully.
+2025-07-18 08:57:05,107 - INFO - Data preprocessing completed and saved successfully.
+2025-07-18 15:58:03,209 - INFO - Logging is set up for preprocessing.
+2025-07-18 15:58:04,769 - INFO - Dataset loaded successfully.
+2025-07-18 15:58:04,782 - INFO - Starting text cleaning.
+2025-07-18 15:58:04,802 - INFO - Starting text preprocessing.
+2025-07-18 15:58:11,282 - INFO - Text cleaning completed.
+2025-07-18 15:58:11,282 - INFO - Starting TF-IDF vectorization.
+2025-07-18 15:58:12,145 - INFO - TF-IDF vectorization completed.
+2025-07-18 15:58:12,145 - INFO - Calculating cosine similarity.
+2025-07-18 15:58:19,057 - INFO - Data and cosine similarity matrix saved successfully.
+2025-07-18 15:58:19,061 - INFO - Data preprocessing completed and saved successfully.
+2025-07-20 15:28:19,906 - INFO - Logging is set up for preprocessing.
+2025-07-20 15:28:21,001 - INFO - Dataset loaded successfully.
+2025-07-20 15:28:21,008 - INFO - Starting text cleaning.
+2025-07-20 15:28:21,019 - INFO - Starting text preprocessing.
+2025-07-20 15:28:26,254 - INFO - Text cleaning completed.
+2025-07-20 15:28:26,255 - INFO - Starting TF-IDF vectorization.
+2025-07-20 15:28:27,628 - INFO - TF-IDF vectorization completed.
+2025-07-20 15:28:27,629 - INFO - Calculating cosine similarity.
+2025-07-20 15:28:35,730 - INFO - Data and cosine similarity matrix saved successfully.
+2025-07-20 15:28:35,740 - INFO - Data preprocessing completed and saved successfully.
